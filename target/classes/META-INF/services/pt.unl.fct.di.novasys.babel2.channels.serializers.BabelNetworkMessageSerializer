@@ -1,0 +1,3 @@
+pt.unl.fct.di.novasys.babel2.channels.serializers.BroadcastMessageSerializer
+pt.unl.fct.di.novasys.babel2.channels.serializers.EchoBroadcastMessageSerializer
+pt.unl.fct.di.novasys.babel2.channels.serializers.SuperImportantMessageSerializer
