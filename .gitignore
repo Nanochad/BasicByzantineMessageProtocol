@@ -1,0 +1,22 @@
+# Maven build output
+target/
+dependency-reduced-pom.xml
+
+# Java compiled classes
+*.class
+
+# Logs
+*.log
+/tmp/n*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
