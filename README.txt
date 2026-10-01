@@ -38,18 +38,3 @@ java -Dlog4j2.configurationFile=./log4j2-base.xml -jar target/lab1-1.0.jar crypt
 java -Dlog4j2.configurationFile=./log4j2-base.xml -jar target/lab1-1.0.jar crypto_name=node2
 java -Dlog4j2.configurationFile=./log4j2-base.xml -jar target/lab1-1.0.jar crypto_name=node3
 java -Dlog4j2.configurationFile=./log4j2-base.xml -jar target/lab1-1.0.jar crypto_name=node4
-
-# Babel 2 is a tool in development. If you found a bug during the development of your projects, send a detailed
-# report to:
-
-# rd.matos@campus.fct.unl.ppt
-
-# With the subject "Babel 2 Bug Report". Be as thorough as you can be (how you ran the code, in what conditions...), 
-# run your solution by changing the -Dlog4j2.configurationFile argument to:
-
-# ./log4j2-debug.xml
-
-# This will output to your console more information relevant to finding the bug and create a log file called "output.log". 
-# Send that output.log as an attachment alongside the code that generated the bug.
-
-# Your contribuition will be deeply appreciated!! Good luck for the rest of the course :)
